@@ -6,6 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files": [
+     "preview.html",
+     "fonts/",
+     "scss/",
+     "svgs/"
+  ],
   "author": "Patrick Kelly",
   "license": "ISC"
 }
